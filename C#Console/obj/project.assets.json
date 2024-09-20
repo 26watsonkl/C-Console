@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\C#Console\\C#Console\\C#Console.csproj",
+      "projectUniqueName": "C:\\Users\\26watsonkl\\Documents\\GitHub\\C-Console\\C#Console\\C#Console.csproj",
       "projectName": "C#Console",
-      "projectPath": "H:\\C#Console\\C#Console\\C#Console.csproj",
+      "projectPath": "C:\\Users\\26watsonkl\\Documents\\GitHub\\C-Console\\C#Console\\C#Console.csproj",
       "packagesPath": "C:\\Users\\26watsonkl\\.nuget\\packages\\",
-      "outputPath": "H:\\C#Console\\C#Console\\obj\\",
+      "outputPath": "C:\\Users\\26watsonkl\\Documents\\GitHub\\C-Console\\C#Console\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\26watsonkl\\AppData\\Roaming\\NuGet\\NuGet.Config"

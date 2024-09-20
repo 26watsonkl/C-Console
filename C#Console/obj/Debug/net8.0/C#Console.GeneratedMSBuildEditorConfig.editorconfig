@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = C_Console
-build_property.ProjectDir = h:\C#Console\C#Console\
+build_property.ProjectDir = C:\Users\26watsonkl\Documents\GitHub\C-Console\C#Console\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
