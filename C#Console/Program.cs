@@ -25,5 +25,7 @@ class Program
         //Loops.NestedLoops();
         //Array.Array1(arg);
         //Lists.List1(args)
+        //Dictionary1.Dict1(args);
+        
     }
 }
